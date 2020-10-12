@@ -1,2 +1,2 @@
 # cheat-sheet
-Some integrated operations
+Some operations
